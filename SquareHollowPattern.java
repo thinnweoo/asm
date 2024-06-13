@@ -1,5 +1,5 @@
 package assignments;
-import java.util.Scanner;
+// import java.util.Scanner;
 
 public class SquareHollowPattern {
 	
@@ -7,7 +7,7 @@ public class SquareHollowPattern {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Scanner s = new Scanner(System.in);
+		// Scanner s = new Scanner(System.in);
 //		System.out.println("enter your size");
 //		int size = s.nextInt();
 		int size = 5;
@@ -22,7 +22,7 @@ public class SquareHollowPattern {
 			System.out.println();
 		}
 		
-		s.close();
+		// s.close();
 
 	}
 
